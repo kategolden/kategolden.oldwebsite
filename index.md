@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Kate Golden: Home
 ---
 
 I'm an investigative reporter and the multimedia director at the [Wisconsin Center for Investigative Journalism](http://wisconsinwatch.org). I've worked there since 2010 and have helped the Center transform into the scrappy, award-winning organization it is today.
