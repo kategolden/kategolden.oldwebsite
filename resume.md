@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Resume
 ---
 Current as of March 2015
 #Skills 
