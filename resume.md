@@ -3,6 +3,7 @@ layout: default
 title: Resume
 ---
 Current as of March 2015
+
 #Skills 
 
 **Multimedia**: Radio, web video, photography, design. Responsive web design on WordPress.
