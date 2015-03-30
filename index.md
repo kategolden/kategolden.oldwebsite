@@ -10,11 +10,11 @@ A smattering of my work interests:
 
 * Data-driven journalism, including visualizations and especially maps
 * The environment (mostly water issues)
- - Climate change
- - Endocrine disruption
- - Nutrient pollution
- - Groundwater supply
- - Science and public policy
+  - Climate change
+  - Endocrine disruption
+  - Nutrient pollution
+  - Groundwater supply
+  - Science and public policy
 * Radio and podcasting
 * Design
 * Creative storytelling
