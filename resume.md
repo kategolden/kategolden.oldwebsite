@@ -75,7 +75,7 @@ Lecture and collaborate with classes at University of Wisconsin-Madison
 
 * Investigative Reporters and Editors
 * Society of Environmental Journalists
-* Society for Professional Journalists
+* Society of Professional Journalists
 * Association of Independents in Radio
 
 #Education
