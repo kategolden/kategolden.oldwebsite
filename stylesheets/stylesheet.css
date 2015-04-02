@@ -10,7 +10,7 @@ MeyerWeb Reset
 *******************************************************************************/
 
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, headermenu, blockquote, pre,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -95,10 +95,6 @@ h6 {
 
 p {
   margin: 10px 0 15px 0;
-}
-
-header-menu {
-  margin:  0 50px 0 50px;
 }
 
 footer p {

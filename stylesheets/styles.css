@@ -45,6 +45,11 @@ a small {
   display:block;
 }
 
+header-menu {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;
