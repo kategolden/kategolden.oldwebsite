@@ -1,6 +1,6 @@
---
+---
 layout:default
---
+---
 
 #OpenRefine training
 9 am Friday June 5, IRE 2015 (Philadelphia)
