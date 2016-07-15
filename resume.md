@@ -2,17 +2,27 @@
 layout: default
 title: Resume
 ---
-Current as of April 2015
+Current as of July 2016
 
 #Skills 
 
 **Multimedia**: Radio, web video, photography, design. Responsive web design on WordPress.
 **Data**: Maps, charts and other data visualizations using Tableau Public, Google Fusion Tables, TileMill, SQL and other tools. Text analysis. Bulletproofing. Data cleaning and management. **Other skills**: Packaging multi-part web projects, fact-checking, public records acquisition, editing and copy-editing.
 
-
 #Current work
 
-*Multimedia director and reporter*, **Wisconsin Center for Investigative Journalism**, 2010 - present. What I do:  
+*Multimedia manager*, **The Walkley Foundation**, Sydney, Australia; August 2015 - present. The Walkley Foundation, a small non-profit, benchmarks journalistic excellence and encourages innovation in Australian media. This role includes:
+
+* Strategising on how to develop innovation in Australian journalism; organising events like a nationwide hackathon and a casual future-of-journalism talk series; connecting with disparate data and privacy communities; and digging up corporate, journalistic or nonprofit partners
+* Directing and improving Walkleys' digital presence on a small budget
+* Commissioning and editing pieces for the Walkley Magazine
+* Development strategy in response to the Walkleys' acquisition of tax-deductible status
+* External communications and marketing
+* Improving internal processes and workflows for the company
+
+#Past work
+
+*Multimedia director and reporter*, **Wisconsin Center for Investigative Journalism**, 2010 - 2015 
 
 * Develop and implement the Center’s multimedia strategy
 * Direct the Center’s award-winning environmental coverage, including Water Watch Wisconsin
@@ -25,8 +35,6 @@ Current as of April 2015
 * Lecture and collaborate with classes at University of Wisconsin-Madison
 * Promote and discuss the Center’s work on TV, radio and at panels
 * Develop Investigative Reporting + Art, an experimental collaboration I conceived to transform data journalism into sculptures to capture new audiences and donors
-
-#Past work
 
 *Reporter*, **Juneau Empire**, January 2008-July 2009: Covered natural resources and business in Alaska's capital. Daily and enterprise stories, multimedia features.
 
