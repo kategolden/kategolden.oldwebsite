@@ -4,7 +4,7 @@ layout: default
 
 I'm a journalist in Sydney, Australia.
 
-At the [The Walkley Foundation](http://walkleys.com),  I work on the Walkley Magazine, comms, and encouraging innovation and data journalism in Australia. Recently I ran [this hackathon](http://walkleys.com/editorslab). I run an event series on future-of-journalism topics called [Future Friday](http://walkleys.com/futurefriday) and I'm always looking for suggestions.
+At the [The Walkley Foundation](http://walkleys.com),  I work on the Walkley Magazine, comms, and encouraging innovation and data journalism in Australia. Recently I ran [this hackathon](http://walkleys.com/editorslab). I run an event series on future-of-journalism topics called [Future Friday](http://www.walkleys.com/future-fridays/) and I'm always looking for suggestions.
 
 Until last year I was an investigative reporter and the multimedia director at the [Wisconsin Center for Investigative Journalism](http://wisconsinwatch.org), based in Madison. I helped transform it into the scrappy, award-winning organization it is today.
 
