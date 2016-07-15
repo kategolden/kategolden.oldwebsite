@@ -4,12 +4,12 @@ title: Resume
 ---
 Current as of July 2016
 
-#Skills 
+# Skills 
 
 **Multimedia**: Radio, web video, photography, design. Responsive web design on WordPress.
 **Data**: Maps, charts and other data visualizations using Tableau Public, Google Fusion Tables, TileMill, SQL and other tools. Text analysis. Bulletproofing. Data cleaning and management. **Other skills**: Packaging multi-part web projects, fact-checking, public records acquisition, editing and copy-editing.
 
-#Current work
+# Current work
 
 *Multimedia manager*, **The Walkley Foundation**, Sydney, Australia; August 2015 - present. The Walkley Foundation, a small non-profit, benchmarks journalistic excellence and encourages innovation in Australian media. This role includes:
 
@@ -20,7 +20,7 @@ Current as of July 2016
 * External communications and marketing
 * Improving internal processes and workflows for the company
 
-#Past work
+# Past work
 
 *Multimedia director and reporter*, **Wisconsin Center for Investigative Journalism**, 2010 - 2015 
 
@@ -58,7 +58,7 @@ Current as of July 2016
  
 *Various research positions*, **Stanford University**, 1997-2001: Collected oral histories in Zanzibar. Did research assistantships in genetics, anthropology and radiology that now inform my science reporting.
  
-#Awards, grants and appearances
+# Awards, grants and appearances
 
 * Honorary faculty appointment, University of Wisconsin-Madison, 2013-present
 * Key role in 2014 Knight Foundation INNovation grant of $35,000 for [Investigative Reporting + Art](http://wisconsinwatch.org/2014/10/center-awarded-35000-from-knight-supported-innovation-fund-to-translate-investigative-reporting-into-art-explore-new-audiences-and-profit/), a fundraising and outreach experiment
@@ -79,14 +79,14 @@ Current as of July 2016
 * Alaska Press Club awards, 2008 and 2009
 
 
-#Professional affiliations
+# Professional affiliations
 
 * Investigative Reporters and Editors
 * Society of Environmental Journalists
 * Society of Professional Journalists
 * Association of Independents in Radio
 
-#Education
+# Education
 
 **University of California, Berkeley**, Graduate School of Journalism: MJ 2007 
 Graduate Opportunity Fellowship 2005 recipient
