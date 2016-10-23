@@ -2,7 +2,7 @@
 layout: default
 title: Resume
 ---
-Current as of July 2016
+Current as of July 2016. See clips in links.
 
 # Skills 
 
@@ -71,6 +71,7 @@ Current as of July 2016
 * Grant recipient, 2010, from the Fund for Investigative Journalism and the Fund for Environmental Journalism for a multi-part investigation of [endocrine disruptors in Wisconsin’s waters](http://wisconsinwatch.org/series/endocrine-disruptors)
 * Panelist at Investigative Reporters and Editors or National Institute for Computer-Assisted Reporting conferences in 2010, 2011, 2013, 2014 on text analysis, environmental reporting, covering state government, holding the powerful accountable, agribusiness and Investigative Reporting + Art; assisted in data training at a 2013 NICAR boot camp
 * Statewide awards from the Milwaukee Press Club: 
+  - 2015: Gold awards for best investigative story or series, [Failure at the Faucet](http://wisconsinwatch.org/series/faucetfail); best use of multimedia, [12 Sandy GIFs](http://wisconsinwatch.org/2015/04/12-sandy-gifs-an-animated-guide-to-wisconsins-frac-sand-rush/) and its [video version](http://wisconsinwatch.org/series/frac-sand/); best public service story, [Precious Lives](http://wisconsinwatch.org/series/precious-lives) (my story [here](http://kategolden.org/radioclips.html)); best business story (I did data viz), Wisconsin Economic Development Corp.: What went wrong?
   - 2014: Gold awards for best multi-story coverage of a single feature or event, [Kewaunee County’s Water Woes](http://wisconsinwatch.org/?s=kewaunee+water); best use of multimedia, [Murky Waters](http://wisconsinwatch.org/series/murky-waters/); best website, [WisconsinWatch.org](http://wisconsinwatch.org/); best business story or series, Frac sand boom creates promise, problems for Wisconsin (I did editing and data viz, e.g. [here](http://wisconsinwatch.org/2014/07/as-rail-moves-frac-sand-across-wisconsin-landscape-new-conflicts-emerge/)). Silver award for investigative reporting, [Cruel and Unusual? Inmates allege abuse at Wisconsin prison](http://wisconsinwatch.org/series/waupun-allegations/) (my part: mostly data viz-related).
   - 2013: Gold awards for best multi-story coverage of a single feature or event, best use of multimedia ([Water Watch Wisconsin](http://wisconsinwatch.org/series/water-watch-wisconsin/)), 
   - Two 2012 awards, including gold for best innovative feature for [The Walker Calendar Files](http://wisconsinwatch.org/the-walker-calendar-files-overview/)
